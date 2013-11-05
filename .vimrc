@@ -1,0 +1,11 @@
+set nocompatible " Turns off compatible mode, so adds improvements since vi"
+set tabstop=2 " A tab counts for two columns"
+set shiftwidth=2 " Indent two columns with reindent operations"
+set number "Show line numbers"
+set ls=2 "Show status line"
+set ruler " Show cursor current position with line and column"
+set history=50 " 50 commands and search patterns remembered"
+set backspace=indent,eol,start "Allows backspacing over indents, end of lines, and start of insert"
+set bg=light " Use colors that look good on a light background"
+set backup " Make a backup file before overwriting a save"
+

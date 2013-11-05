@@ -1,0 +1,10 @@
+[user]
+	name = Ashwin Muthiah
+	email = muthiah.ashwin2015@gmail.com
+[color]
+	ui = true
+[alias]
+	ci = commit
+[alias]
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+
